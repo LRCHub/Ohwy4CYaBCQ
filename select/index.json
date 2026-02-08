@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "8月、昼中の流れ星と飛行機雲",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-02-08T09:07:10.471396Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "8月、昼中の流れ星と飛行機雲",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_8月、昼中の流れ星と飛行機雲_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "8月、昼中の流れ星と飛行機雲",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_8月、昼中の流れ星と飛行機雲_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
